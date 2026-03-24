@@ -263,7 +263,7 @@ src/
 |---------|---------|
 | **Email** | nguyenminhkhoi.booking@gmail.com |
 | **Facebook** | https://www.facebook.com/ngxkhoi.ae/ |
-| **Website** | https://veltrixmediagroup.com |
+| **Website** | https://vfuture.vercel.app |
 | **Response Time** | < 24 hours (business days) |
 | **Support Hours** | Monday - Friday, 9AM - 6PM (Vietnam Time) |
 
@@ -542,7 +542,7 @@ src/
 |------|---------|
 | **Email** | nguyenminhkhoi.booking@gmail.com |
 | **Facebook** | https://www.facebook.com/ngxkhoi.ae/ |
-| **Website** | https://veltrixmediagroup.com |
+| **Website** | https://vfuture.vercel.app |
 | **Thời Gian Phản Hồi** | < 24 giờ (business days) |
 | **Giờ Hỗ Trợ** | Monday - Friday, 9AM - 6PM (Vietnam Time) |
 
